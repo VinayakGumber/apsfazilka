@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+}
+
+#marqueeStyle {
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.campus_maindiv {
+    display: flex;
+}
+
+.campus_mainDiv_1 {
+    width: 50%;
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campus_mainDiv_2 {
+    width: 50%;
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campus_mainDiv img {
+    width: 100%;
+}
+
+.campus_mainDiv hr {
+    width: 230px;
+}
+
+.campus_mainDiv h5,
+p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.movie_text {
+    margin-bottom: 200px;
+    font-size: 30px;
+}
+
+
+.whats_new_li {
+    margin-top: 13px;
+}
+
+.whats_new_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.whats_new_li img {
+    border-radius: 25px;
+}
+
+.whats_new_li p {
+    margin-top: 10px;
+    font-size: 20px;
+}
